@@ -6,10 +6,6 @@ This project demonstrates the analysis of sales data from a coffee shop using Mi
 
 The data includes daily sales records for various items such as coffee, pastries, and beverages, collected over a period of time.
 
-## Dashboard
-![Uploading Screenshot (38).png…]()
-
-
 ## Features
 - **Sales Data Cleaning**: Removing any inconsistencies or errors in the dataset to ensure accuracy.
 - **Trend Analysis**: Identifying patterns in sales, such as peak sales times, most popular products, and seasonal trends.
