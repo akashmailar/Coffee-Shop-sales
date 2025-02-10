@@ -1,4 +1,5 @@
 # Coffee Shop Sales Analysis - Excel
+![Screenshot (38)](https://github.com/user-attachments/assets/6780a616-3904-4a55-998b-d5dc2af8c21a)
 
 ## Overview
 This project demonstrates the analysis of sales data from a coffee shop using Microsoft Excel. The goal is to extract insights from historical sales data to understand sales trends, customer preferences, peak hours, and overall performance. This analysis is helpful for decision-making and can be applied to improving sales strategies, inventory management, and customer experience.
@@ -6,7 +7,7 @@ This project demonstrates the analysis of sales data from a coffee shop using Mi
 The data includes daily sales records for various items such as coffee, pastries, and beverages, collected over a period of time.
 
 ## Dashboard
-
+![Uploading Screenshot (38).png…]()
 
 
 ## Features
@@ -38,3 +39,6 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 - The data used in this analysis is fictional and is meant for demonstration purposes only.
 - Special thanks to the contributors for their insights and suggestions.
+
+--------------------
+Thank You!
