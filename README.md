@@ -2,3 +2,6 @@
 
 ## Overview
 This project demonstrates the analysis of sales data from a coffee shop using Microsoft Excel. The goal is to extract insights from historical sales data to understand sales trends, customer preferences, peak hours, and overall performance. This analysis is helpful for decision-making and can be applied to improving sales strategies, inventory management, and customer experience.
+
+## Dashboard
+[Dashboard](https://github.com/akashmailar/Coffee-Shop-sales/blob/main/Screenshot%20(38).png)
