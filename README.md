@@ -6,7 +6,7 @@ This project demonstrates the analysis of sales data from a coffee shop using Mi
 The data includes daily sales records for various items such as coffee, pastries, and beverages, collected over a period of time.
 
 ## Dashboard
-(https://github.com/akashmailar/Coffee-Shop-sales/blob/main/Screenshot%20(38).png)
+https://github.com/akashmailar/Coffee-Shop-sales/blob/main/Screenshot%20(38).png?raw=true
 
 ## Features
 - **Sales Data Cleaning**: Removing any inconsistencies or errors in the dataset to ensure accuracy.
